@@ -22,7 +22,7 @@ class Speak {
         }
         console.table(this.voices)
     }
-
+ 
     setVoice(index){
         this.voice=index;
         return this;

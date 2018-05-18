@@ -12,7 +12,7 @@ Call your function in a console.log, like
 `console.log( mockify('This is a test') );`
 That should write something like `tHiS IS a tESt` with random upper and lower case letters.
 
-#### Additional fun
+#### Additional fun 
 When you get it working, try this for fun
 
 1. Modify the function, so that it uses `this` as input-parameter, if nothing else is supplied (i.e. a default parameter)

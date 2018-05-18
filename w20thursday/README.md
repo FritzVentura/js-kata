@@ -7,7 +7,7 @@ However - you would like to change the colors dynamically, make them all a green
 
 Now you just need to modify the hue (the --basecolor) with JavaScript.
 
-### Your tasks
+### Your tasks 
 __The .html and .js files have been prepared for you - copy everything from materials to mysolution (`cp ./materials/* ./mysolution/`)__
 
 1. Create a list of base-hues/colors, and display them in the `#colorselector`

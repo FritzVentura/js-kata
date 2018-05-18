@@ -9,7 +9,7 @@ Now it's your turn.
 Look at the following example [https://jofhatkea.github.io/js-kata/w20wednesday/materials/index.html](https://jofhatkea.github.io/js-kata/w20wednesday/materials/index.html)
 
 Note: This has only been tested in Chrome
-
+ 
 Turn on your audio and click the button.
 
 1. Look in this foolder (w20wednesday/materials) to se the code needed to "make JavaScript speak"

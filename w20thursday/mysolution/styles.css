@@ -71,7 +71,3 @@ ul#colorselector {
 ul#colorselector li {
     cursor: pointer;
 }
-
-#colorselector li{
-    background: var(--color-bright);
-}
