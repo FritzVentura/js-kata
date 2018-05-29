@@ -1,8 +1,9 @@
 "use strict";
 
 // listen for clicks on the color-selectors
-const container = document.querySelector("#colorselector");
 
+
+const container = document.querySelector("#colorselector");
 container.addEventListener("click", e=>{
     //console.log(e.target);
     const clickedLi = e.target;
@@ -10,6 +11,8 @@ container.addEventListener("click", e=>{
 
     document.documentElement.style.setProperty("--basecolor",clickedLi.dataset.color);
 })
+
+
 
 // when one is clicked:
 
